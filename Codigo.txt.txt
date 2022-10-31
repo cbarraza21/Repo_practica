@@ -6,4 +6,6 @@ git config --g user.em...
 git init
 git add - git add .
 git status
+git commit -m " "
+git log
 
