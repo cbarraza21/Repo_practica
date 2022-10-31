@@ -7,5 +7,4 @@ git init
 git add - git add .
 git status
 git commit -m " "
-git log
-
+git log - git log --graph - git log --oneline
