@@ -1,0 +1,9 @@
+Hola Cristian
+
+Git
+
+git config --g user.em...
+git init
+git add - git add .
+git status
+
